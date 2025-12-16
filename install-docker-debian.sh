@@ -3,7 +3,7 @@
 # Instalador Automático: Docker + Docker Compose
 # Para Debian 12/13 (arm64 e amd64)
 # Compatível com Raspberry Pi 4 (ARM)
-# wget -qO - https://raw.githubusercontent.com/italofreitasM/docker/main/install-docker-debian.sh | sudo bash
+# wget -qO - https://raw.githubusercontent.com/ItaloFreitasM/docker/refs/heads/main/install-docker-debian.sh | sudo bash
 #
 # Autor: Italo Freitas (italofreitas2222@gmail.com)
 # ----------------------------------------------------------
